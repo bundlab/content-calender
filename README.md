@@ -24,6 +24,12 @@ Clean architecture • Type-safe • Great DX • Production-ready foundation.
 - 🛠 GitHub Actions CI – lint, test, build
 - 📝 Clean, modular folder structure
 
+## Tech Stack
+- **Backend**: FastAPI + SQLModel + PostgreSQL
+- **Frontend**: React (Vite/Next.js) + TanStack Query + TailwindCSS
+- **Containerization**: Docker + docker-compose
+- **CI/CD**: GitHub Actions
+
 ## 🚀 Quick Start (Local)
 
 ```bash
